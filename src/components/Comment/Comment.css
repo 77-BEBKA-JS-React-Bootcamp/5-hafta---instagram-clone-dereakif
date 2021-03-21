@@ -1,0 +1,9 @@
+.main-img {
+  object-fit: none;
+}
+.comment-username {
+  font-size: 9px;
+}
+.comment-body {
+  font-size: 8px;
+}
